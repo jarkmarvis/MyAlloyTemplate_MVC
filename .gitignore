@@ -1,0 +1,21 @@
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+*.cache
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+x64/*
+bld/
+[Bb]in/*
+[Oo]bj/
+
+# Roslyn cache directories
+*.ide/
+/.vs/slnx.sqlite
+
+*.vs/
