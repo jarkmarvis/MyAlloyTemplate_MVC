@@ -16,3 +16,6 @@ bld/
 
 # Roslyn cache directories
 *.ide/
+/.vs/slnx.sqlite
+
+*.vs/
